@@ -48,12 +48,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.2.213",
+    "IDEVersion":"2024.14.3.217",
   },
   "name":"Hero's Trail Base - GML Visual",
   "resources":[
     {"id":{"name":"fnt_button","path":"fonts/fnt_button/fnt_button.yy",},},
     {"id":{"name":"fnt_hud","path":"fonts/fnt_hud/fnt_hud.yy",},},
+    {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
     {"id":{"name":"Template_Readme","path":"notes/Template_Readme/Template_Readme.yy",},},
     {"id":{"name":"obj_baddie","path":"objects/obj_baddie/obj_baddie.yy",},},
     {"id":{"name":"obj_barrel_big","path":"objects/obj_barrel_big/obj_barrel_big.yy",},},
