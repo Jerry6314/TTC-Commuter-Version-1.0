@@ -45,5 +45,5 @@
     "path":"sprites/spr_baddie_idle/spr_baddie_idle.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
