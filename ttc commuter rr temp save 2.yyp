@@ -108,6 +108,7 @@
     {"id":{"name":"walkingL","path":"sprites/walkingL/walkingL.yy",},},
     {"id":{"name":"walkingR","path":"sprites/walkingR/walkingR.yy",},},
     {"id":{"name":"walkingW","path":"sprites/walkingW/walkingW.yy",},},
+    {"id":{"name":"Win_Screen","path":"sprites/Win_Screen/Win_Screen.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
   ],
