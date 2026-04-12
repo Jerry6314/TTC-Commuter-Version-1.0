@@ -25,7 +25,7 @@ if(facing == 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDArgument : "imageind_relative" "1"
 	/// @DnDArgument : "spriteind" "SpriteIdle_R"
 	/// @DnDSaveInfo : "spriteind" "SpriteIdle_R"
-	sprite_index = SpriteIdle_R;
+	sprite_index = SpriteIdle_L;
 	image_index += 0;}
 
 /// @DnDAction : YoYo Games.Common.Else
@@ -64,7 +64,7 @@ else{	/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDArgument : "imageind_relative" "1"
 			/// @DnDArgument : "spriteind" "SpriteIdle_L"
 			/// @DnDSaveInfo : "spriteind" "SpriteIdle_L"
-			sprite_index = SpriteIdle_L;
+			sprite_index = SpriteIdle_R;
 			image_index += 0;}
 	
 		/// @DnDAction : YoYo Games.Common.Else
